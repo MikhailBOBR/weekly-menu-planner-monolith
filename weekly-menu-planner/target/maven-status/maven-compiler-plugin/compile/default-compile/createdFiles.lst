@@ -1,0 +1,12 @@
+com\planner\dto\MenuPlanResponse.class
+com\planner\model\Recipe.class
+com\planner\model\Recipe$RecipeBuilder.class
+com\planner\dto\DayPreference.class
+com\planner\dto\MenuPlanResponse$MenuPlanResponseBuilder.class
+com\planner\MenuPlannerApplication.class
+com\planner\repository\RecipeRepository.class
+com\planner\controller\MenuController.class
+com\planner\dto\MenuRequest.class
+com\planner\service\MenuGeneratorService$1.class
+com\planner\model\MealType.class
+com\planner\config\DataInitializer.class
